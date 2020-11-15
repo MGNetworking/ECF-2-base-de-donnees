@@ -20,6 +20,3 @@ delimiter ;
 
 
 call donner_technique();
-
-
-
